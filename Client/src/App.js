@@ -20,9 +20,9 @@ function App() {
             <Route path="/product/:id" element={<ProductDetails />} />
           </Routes>
           <footer>
-            <p>Created by Peter Martens</p>
-            <a href="https://github.com/petermartens98/React-Ecommerce-Site">
-            <img className="github-logo" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" />
+            <p>Created by NajeepRahman</p>
+            <a href="https://github.com/najeeprahmank">
+              <img className="github-logo" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" />
             </a>
           </footer>
         </Router>

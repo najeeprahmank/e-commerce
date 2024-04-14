@@ -10,7 +10,7 @@ export const Navbar = () => {
     <div className="navbar">
       <div className="logo">
         <Link to="/" id="NavTitle">
-          Peter's Tech Shop
+          KM Tech Shop
         </Link>
       </div>
       <div className="links">
